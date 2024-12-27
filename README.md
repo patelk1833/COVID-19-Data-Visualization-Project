@@ -3,6 +3,8 @@
 ## Project Overview
 This project involves analyzing COVID-19 data to uncover meaningful insights and trends through data visualization techniques. It combines data collection, cleaning, analysis, and the development of an interactive **Shiny Dashboard** to present findings. The project utilizes data from the [Johns Hopkins CSSE COVID-19 GitHub Repository](https://github.com/CSSEGISandData/COVID-19).
 
+[**Dashboard**](https://patelk22.shinyapps.io/myapp/) 
+
 ## Project Goals
 - Automate the collection of reliable COVID-19 data from the Johns Hopkins repository.  
 - Clean and preprocess the raw data for analytical readiness.  
@@ -39,8 +41,7 @@ The COVID-19 Data Visualization Project effectively analyzed pandemic trends usi
 - **Exploratory data analysis**
 
 ## Repository
-- **myapp (Folder)**: Files for the interactive **Shiny Dashboard**.  
-- **Dashboard Link**: Contains the link to the hosted dashboard.  
+- **Dashboard Link**: Contains the link to the hosted dashboard.  [**Dashboard**](https://patelk22.shinyapps.io/myapp/)  
 - **covid_data (Excel)**: Raw COVID-19 dataset.  
 - **covid_data_new (Excel)**: Cleaned/updated COVID-19 dataset.  
 - **Covid19_Data_Visualization (Jupyter)**: R code for analysis and visualization.  
