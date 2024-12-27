@@ -18,11 +18,33 @@ This project involves analyzing COVID-19 data to uncover meaningful insights and
 
 4. **_Interactive Dashboard_**: Development was carried out using **_Shiny_**, a web application framework for **_R_**. The dashboard allowed users to select parameters such as state and date range, enabling them to interactively explore data trends and derive actionable insights.
 
-### Key Findings
+## Key Findings
 - **Dynamic Trends**: National trends in confirmed and active COVID-19 cases revealed distinct waves of outbreaks, highlighting the **cyclical nature of the pandemic** and its progression over time.  
 - **State-Level Insights**: Certain states demonstrated significantly higher infection and mortality rates, emphasizing the need for **targeted interventions** and localized health policies to manage the impact effectively.  
 - **_Mortality Patterns_**: Logarithmic scaling of the data uncovered **_notable spikes in mortality_** during specific time periods, providing valuable insights into the **_severity and progression of the pandemic_** across different regions.  
 
+## Conclusion
+The COVID-19 Data Visualization Project effectively analyzed pandemic trends using data from the _**Johns Hopkins repository**_. It highlighted key insights such as outbreak waves, state-level disparities, and mortality patterns, while the interactive _**Shiny Dashboard**_ enabled users to explore trends dynamically. This project showcases a comprehensive approach to data analysis and visualization, providing valuable tools for informed decision-making.
+
+## Resources Used
+- **_Programming Language_**: **R**  
+- **_Libraries_**: **Tidyverse**, **Shiny**  
+- **_Tools_**: **Shiny App**  
+- **_Data source_**: [**Johns Hopkins CSSE COVID-19 GitHub Repository**](https://github.com/CSSEGISandData/COVID-19)  
+
+## Key Skills Demonstrated
+- **Data collection and preprocessing**  
+- **Dynamic visualization creation**  
+- **Shiny Dashboard development**  
+- **Exploratory data analysis**
+
+## Repository
+- **myapp (Folder)**: Files for the interactive **Shiny Dashboard**.  
+- **Dashboard Link**: Contains the link to the hosted dashboard.  
+- **covid_data (Excel)**: Raw COVID-19 dataset.  
+- **covid_data_new (Excel)**: Cleaned/updated COVID-19 dataset.  
+- **Covid19_Data_Visualization (Jupyter)**: R code for analysis and visualization.  
+- **Running_App (Jupyter)**: Code to execute the **Shiny Dashboard** locally.  
 
 
 
