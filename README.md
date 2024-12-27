@@ -1,5 +1,6 @@
 # COVID-19 Data Visualization Project
-
+### **By**: Krish Patel
+### **Date**: July 28th, 2023
 ## Project Overview
 This project involves analyzing COVID-19 data to uncover meaningful insights and trends through data visualization techniques. It combines data collection, cleaning, analysis, and the development of an interactive **Shiny Dashboard** to present findings. The project utilizes data from the [Johns Hopkins CSSE COVID-19 GitHub Repository](https://github.com/CSSEGISandData/COVID-19).
 
